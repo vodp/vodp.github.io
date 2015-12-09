@@ -12,6 +12,6 @@ Phong Vo graduated CS Bachelor in 2007 and CS Master in 2009 at [University of S
 * `{Deep, Kernel, Manifold} * Learning`
 * `Image * {Segmentation, Annotation, Parsing, Classification, Retrieval}`
 
-### Home Projects ###
+### Rookie ###
 * DIY Robotics, Raspbery Pi, Arduino
 * Android, web programming
