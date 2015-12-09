@@ -5,11 +5,11 @@ permalink: /research/
 ---
 
 ### Semantic Visualization ###
-![Visualization]({{ site.url }}/assets/proj_thumbnails/viz.gif)
+![Visualization](assets/proj_thumbnails/viz.gif)
 We extend our transductive kernel learning approach to subspace problem which enables potential applications such as dimensionality reduction, ranking, and search. Instead of learning a kernel map for classification purpose, we learn a low dimensional embedding resided in the subspace defined by given semantic concepts with few training examples. This new representation is expected to preserve global topology while expose semantic dynamics of the data, which is expected to be useful for data visualization.
 
 ### Transductive Kernel Learning ###
-![TKL]({{ site.url }}/assets/proj_thumbnails/kernel.gif)
+![TKL](/assets/proj_thumbnails/kernel.gif)
 Transductive inference techniques are nowadays becoming standard in machine learning, but their success remains highly dependent on the choice of kernels, which are usually handcrafted or designed in order to capture better similarity in training data. We introduce a novel transductive learning algorithm for kernel design and classification. Our approach is based on the minimization of an energy function mixing i) a reconstruction term that factorizes a matrix of input data as a product of a learned dictionary and a learned kernel map ii) a fidelity term that ensures consistent label predictions with those provided in a ground-truth and iii) a smoothness term which guarantees similar labels for neighboring data and allows us to iteratively diffuse kernel maps and labels from labeled to unlabeled data. Solving this minimization problem makes it possible to learn both a decision criterion and a kernel map that guarantee linear separability in a high dimensional space and good generalization performance.
 
 ### Interactive Images Segmentation ###
