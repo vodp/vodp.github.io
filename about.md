@@ -4,28 +4,22 @@ title: About
 permalink: /about/
 ---
 
-## Welcome to Phong D. Vo's homepage! ##
+I am a postdoctoral engineer working at [CEA LIST]() since April 2014. Nowadays at the time of Cambrian explosion of deep learning, I work on deep convolutional networks to improve image representation in unsupervised and semi-supervised settings. One of those is the problem of how to train deep models from an abundant amount of weakly labeled and noisy data. Such a problem still remains a long-term goal of machine learning community. Before working on deep learning, I had a fun time with transductive kernel methods during my PhD time, under the supervision of Dr. Hichem Sahbi, in the group [TII](http://perso.telecom-paristech.fr/~bloch/tii/), [TSI department](http://www.tsi.telecom-paristech.fr/), [TELECOM ParisTech](http://www.telecom-paristech.fr/).
 
-### Short Bio ###
+Before moving to France, I finished my CS Bachelor in 2007 and CS Master in 2009 at [University of Science, Vietnam](http://www.hcmus.edu.vn/en/index.php). Also in 2009, I had an internship at  the [National Institute of Information](http://www.nii.ac.jp/en/), under the supervision of [Shin'ichi Satoh](http://research.nii.ac.jp/~satoh/) and [Duy-Dinh Le](http://satoh-lab.ex.nii.ac.jp/users/ledduy/).
 
-I am a 3rd year PhD student in the group TII (Traitement et Interprétation des Images), TSI department (UMR CNRS 5141 LTCI), TELECOM ParisTech (aslo known as ENST or École Nationale Supérieure des Télécommunications). During my thesis, I participated in the project of satellite images visualization with CNES.
+### Interests ###
+* Deep learning
+* Kernel methods
+* Unsupervised, semi-supervised and transductive learning
+* Image classification
+* Image Annotation
+* Image Segmentation
+* Image Retrieval
+* Manifold Learning
+* Data Visualization
 
-Before moving to France, I finished my Bachelor in 2007 and Master in 2009, at Computer Science department, University of Science, Vietnam. In mid-2009, I had an internship at  the National Institute of Information, under the supervision of Dr.Shin'ichi Satoh and Duy-Dinh Le.
-
-### Interest ###
-
-My research is about transductive learning and kernel methods, under the supervision of Dr. Hichem Sahbi. Particularly, my thesis' goal is to design data dependent kernel under transduction setting, i.e when labeled data are few compared to unlabeled data. Kernel learning techniques for inductive inference, henceforth, is inappropriate. We instead learn kernel map from both labeled and unlabeled data, given manifold assumption.
-
-I am also interested in a wide range of topics, for example large-margin classification, matrix factorization, sparse coding, and applications of machine learning into computer vision. Please visit my research page and publication page (or Google Scholar page) for more details. Snippets of code can be found in research sub-sections.
-
-Here are my CV. It is my gratitude to get contact from you.
-
-### News ###
-  * 2014 Feb 17: My doctoral manuscript is uploaded.
-  * 2014 Feb 14: Submitted a paper to ICIP 2014.
-  * 2013 July 29: Presented my demonstration paper at SIGIR 2013, Dublin, Ireland.
-  * 2013 July 25: Session Chair at IGARSS 2013.
-  * 2013 July 23: Presented my paper at the IGARSS 2013 Conference in Melbourne, Australia.
-  * 2013 May 12: The homepage is upgraded to Dokuwiki.
-
-### Contact ###
+### Home Projects ###
+* DIY Robotics, RPi, Arduino
+* Android programming
+* Backend & frontend web programming
