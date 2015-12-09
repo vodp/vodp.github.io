@@ -9,12 +9,8 @@ permalink: /about/
 Before moving to France, I finished my CS Bachelor in 2007 and CS Master in 2009 at [University of Science, Vietnam](http://www.hcmus.edu.vn/en/index.php). Also in 2009, I had an internship at  the [National Institute of Information](http://www.nii.ac.jp/en/), under the supervision of [Shin'ichi Satoh](http://research.nii.ac.jp/~satoh/) and [Duy-Dinh Le](http://satoh-lab.ex.nii.ac.jp/users/ledduy/).
 
 ### Interests ###
-* Deep learning
-* Kernel methods
-* Un/semi-supervised 
-* Transductive learning
-* Manifold Learning
-* Image@{classification, annotation, segmentation, parsing, retrieval}
+* {Deep, Kernel, Manifold} Learning
+* Image {classification, annotation, segmentation, parsing, retrieval}
 
 ### Home Projects ###
 * DIY Robotics, RPi, Arduino
