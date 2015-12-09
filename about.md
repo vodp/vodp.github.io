@@ -11,13 +11,10 @@ Before moving to France, I finished my CS Bachelor in 2007 and CS Master in 2009
 ### Interests ###
 * Deep learning
 * Kernel methods
-* Unsupervised, semi-supervised and transductive learning
-* Image classification
-* Image Annotation
-* Image Segmentation
-* Image Retrieval
+* Un/semi-supervised 
+* Transductive learning
 * Manifold Learning
-* Data Visualization
+* Image@{classification, annotation, segmentation, parsing, retrieval}
 
 ### Home Projects ###
 * DIY Robotics, RPi, Arduino
