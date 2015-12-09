@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Deep Representation Learning and Noisy Data ###
-![Deep]({{ site.url }}/assets/proj_thumbnails/deep.png)
+![Deep](https://github.com/vodp/vodp.github.io/blob/master/assets/proj_thumbnails/deep.png)
 The keep-growing content of Web images may be the next important data source to scale up deep neural networks, which recently obtained a great success in the ImageNet classification challenge and related tasks. This prospect, however, has not been validated on convolutional networks (convnet) – one of best performing deep models – because of their supervised regime. While unsupervised alternatives are not so good as convnet in generalizing the learned model to new domains, we use convnet to leverage semi-supervised representation learning. Our approach is to use massive amounts of unlabeled and noisy Web images to train convnets as general feature detectors despite challenges coming from data such as high level of mislabeled data, outliers, and data biases.
 
 >**References**
