@@ -5,7 +5,7 @@ permalink: /pubs/
 ---
 
 ### PhD Dissertation ###
-* Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, TELECOM ParisTech, 2014.
+* Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, TELECOM ParisTech, 2014. [PDF](These.pdf)
 
 ### Conference papers ###
 * Phong D. Vo, Alexandru Ginsca, Herv\'e Le Borgne, Adrian Popescu, **On Deep Representation Learning from Noisy Web Images**, arXiv, 2015.
