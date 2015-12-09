@@ -18,7 +18,7 @@ Transductive inference techniques are nowadays becoming standard in machine lear
 
 >**References**
 
->1. Phong D. Vo, Transductive Inference for Image Interpretation and Search, Doctoral disseration, TELECOM ParisTech, 2014 (Chap. 3)
+>1. Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, Doctoral disseration, TELECOM ParisTech, 2014 (Chap. 3)
 
 ### Semantic Visualization ###
 ![Semantic Visualization](assets/proj_thumbnails/satellite.png)
@@ -28,7 +28,7 @@ We extend our transductive kernel learning approach to subspace problem which en
 
 >1. Phong D. Vo, Hichem Sahbi, **Semantic Subspace Learning for Mental Search in Satellite Images**, IGARSS, 2013.
 >2. Phong D. Vo, Hichem Sahbi, **Spacious: An Interactive Mental Search Interface**, ACM SIGIR, 2013. 
->3. Phong D. Vo, Transductive Inference for Image Interpretation and Search, Doctoral disseration, TELECOM ParisTech, 2014 (Chap. 6)
+>3. Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, Doctoral disseration, TELECOM ParisTech, 2014 (Chap. 6)
 
 ### Scene Understanding ###
 ![Semantic Visualization](assets/proj_thumbnails/parse.png)
@@ -36,7 +36,7 @@ Scene parsing is a machine vision task that comprises localizing all available o
 
 >**References**
 
->1. Phong D. Vo, Transductive Inference for Image Interpretation and Search, Doctoral disseration, TELECOM ParisTech, 2014 (Chap. 5)
+>1. Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, Doctoral disseration, TELECOM ParisTech, 2014 (Chap. 5)
 
 ### Automatic Image Annotation ###
 ![Semantic Visualization](assets/proj_thumbnails/annot.png)
