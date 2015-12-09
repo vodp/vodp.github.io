@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-permalink: /research/
 ---
 ### Deep Representation Learning and Noisy Data ###
 ![Deep](assets/thumbnails/deep.png)
