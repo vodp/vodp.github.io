@@ -4,7 +4,7 @@ title: Publication
 permalink: /pubs/
 ---
 
-### My Thesis ###
+### PhD Dissertation ###
 * Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, TELECOM ParisTech, 2014.
 
 ### Conference papers ###
