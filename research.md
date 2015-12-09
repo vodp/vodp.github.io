@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
 ### Semantic Visualization ###
 We extend our transductive kernel learning approach to subspace problem which enables potential applications such as dimensionality reduction, ranking, and search. Instead of learning a kernel map for classification purpose, we learn a low dimensional embedding resided in the subspace defined by given semantic concepts with few training examples. This new representation is expected to preserve global topology while expose semantic dynamics of the data, which is expected to be useful for data visualization.
 
