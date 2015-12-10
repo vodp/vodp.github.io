@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
+*You may want to reach my incomplete publication list on DBLP ([here](http://dblp.uni-trier.de/pers/hd/v/Vo:Dinh=Phong) and [here](http://dblp.uni-trier.de/pers/hd/v/Vo:Phong_D=)) and [Google Scholar](https://scholar.google.com/citations?user=s830TUYAAAAJ&hl=de).*
 
 ### PhD Dissertation ###
 * Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, TELECOM ParisTech, 2014. [PDF](These.pdf)
