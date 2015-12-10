@@ -31,6 +31,7 @@ We extend our transductive kernel learning approach to subspace problem which en
 >3. Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, Doctoral disseration, TELECOM ParisTech, 2014 (Chap. 6)
 
 ### Software ###
+![Semantic Visualization](assets/thumbnails/spacious.png)
 Spacious is a visualization application which integrates interactive visualization and querying-giving feedback into a common interface. Given a satellite image, Spacious divides it into rectangular patches (approximately 12,000 patches in our experiment) and visual descriptors are extracted. Some semantics are then defined, for instance building, road, vegetation
 and water, and we select 15 patch examples per semantic and their memberships are set accordingly. Traversing along dimensions, we observe a gradual variation of the semantics whereas in the span of these dimensions, patches mix several semantics. The software is developed based on the open source [PartiView](http://www.haydenplanetarium.org/universe/partiview).
 
