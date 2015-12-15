@@ -28,3 +28,6 @@ Dreaming about robots awaring of their asses, and make it move by a Raspbery Pi,
 
 ###What my daughter says about me###
 0_0
+
+###Still want to reach my CV?###
+[Please click here!](curiculum-vitale.pdf)
