@@ -12,16 +12,19 @@ Phong Vo graduated CS Bachelor in 2007 and CS Master in 2009 at [University of S
 ###What I say about me###
 Being a half-time father, I also have another part-time job as a postdoctoral engineer, starting from 9am to 6pm every weekday. Striving with artificial intelligence and deep learning, my career endeavors the bright future for my daughter, and your children too.
 
+###What my ego says about me###
 * 5+ experience years with machine learning and visual recognition
 * PhD in Signal and Images, specialized in kernel methods
 * Asians are good at maths, so do I? Maybe.
 * Love coding, write and consumes it as a daily basis
 * Friend with `Python`, sacred loves with `C` and `C++`, used to get along with `Matlab`, good old friend with `Java`, `HTML` and `JavaScript` are my neighbors.
 
-### What I have done ###
+###What my work says about me###
 * `{Deep, Kernel, Manifold} * Learning`
 * `Image * {Segmentation, Annotation, Parsing, Classification, Retrieval}`
 
-### What I do in free time ###
-Dream about robots awaring of their asses, and make it move by a Raspbery Pi, Arduino, or an Android phone.
+###What my wife says about me###
+Dreaming about robots awaring of their asses, and make it move by a Raspbery Pi, Arduino, or an Android phone.
 
+###What my daughter says about me###
+0_0
