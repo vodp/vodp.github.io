@@ -24,7 +24,7 @@ Being a full-time father, I also have another part-time job as a postdoctoral en
 * `Image * {Segmentation, Annotation, Parsing, Classification, Retrieval}`
 
 ###What my wife says about me###
-Dreaming about robots awaring of their asses, and make it move by a Raspbery Pi, Arduino, or an Android phone.
+Wasting time building robots with Raspbery Pi, Arduino, and Android phones.
 
 ###What my daughter says about me###
 0_0
