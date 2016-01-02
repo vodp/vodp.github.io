@@ -15,7 +15,6 @@ Being a full-time father, I also have another part-time job as a postdoctoral en
 ###What my ego says about me###
 * 5+ experience years with machine learning and visual recognition
 * PhD in Signal and Images, specialized in kernel methods
-* `Asians are good at maths,` I will prove this is not true.
 * Love coding, write and consumes it as a daily basis
 * Friend with `Python`, sacred loves with `C` and `C++`, used to get along with `Matlab`, good old friend with `Java`, `HTML` and `JavaScript` are my neighbors.
 
