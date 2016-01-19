@@ -10,7 +10,7 @@ Phong Vo is a postdoctoral engineer working at [Vision & Content Engineering Lab
 Phong Vo graduated CS Bachelor in 2007 and CS Master in 2009 at [University of Science](http://www.hcmus.edu.vn/en/index.php). He also had an internship at [National Institute of Information](http://www.nii.ac.jp/en/), working on video event detection under the supervision of Dr. [Shin'ichi Satoh](http://research.nii.ac.jp/~satoh/) and Dr. [Duy-Dinh Le](http://satoh-lab.ex.nii.ac.jp/users/ledduy/).
 
 ###What I say about me###
-Being a full-time father, I also have another part-time job as a postdoctoral engineer, forcing me leave home from 8am and go back at 6pm every weekday. Fortunatelly at the office I strive with artificial intelligence and deep learning to bring a fun future to my daughter, and your children too.
+Being a full-time father, I also have another job as a postdoctoral engineer.
 
 ###What my ego says about me###
 * 5+ experience years with machine learning and visual recognition
