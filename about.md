@@ -10,12 +10,11 @@ Phong Vo is a postdoctoral engineer working at [Vision & Content Engineering Lab
 Phong Vo graduated CS Bachelor in 2007 and CS Master in 2009 at [University of Science](http://www.hcmus.edu.vn/en/index.php). He also had an internship at [National Institute of Information](http://www.nii.ac.jp/en/), working on video event detection under the supervision of Dr. [Shin'ichi Satoh](http://research.nii.ac.jp/~satoh/) and Dr. [Duy-Dinh Le](http://satoh-lab.ex.nii.ac.jp/users/ledduy/).
 
 ###What I say about me###
-Being a full-time father, I also have another part-time job as a postdoctoral engineer, forcing me leave home from 8am and go back at 6pm every weekday. Fortunatelly at the office I strive with artificial intelligence and deep learning to bring a fun future to my daughter, and your children too.
+Being a full-time father, I also have another job as a postdoctoral engineer.
 
 ###What my ego says about me###
 * 5+ experience years with machine learning and visual recognition
 * PhD in Signal and Images, specialized in kernel methods
-* Asians are good at maths, so do I? Maybe.
 * Love coding, write and consumes it as a daily basis
 * Friend with `Python`, sacred loves with `C` and `C++`, used to get along with `Matlab`, good old friend with `Java`, `HTML` and `JavaScript` are my neighbors.
 
@@ -24,7 +23,7 @@ Being a full-time father, I also have another part-time job as a postdoctoral en
 * `Image * {Segmentation, Annotation, Parsing, Classification, Retrieval}`
 
 ###What my wife says about me###
-Dreaming about robots awaring of their asses, and make it move by a Raspbery Pi, Arduino, or an Android phone.
+Killing time by building robots using Raspbery Pi and Arduino with her smartphone.
 
 ###What my daughter says about me###
 0_0
