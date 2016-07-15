@@ -3,14 +3,12 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
-*You may want to reach my incomplete publication list on DBLP ([here](http://dblp.uni-trier.de/pers/hd/v/Vo:Dinh=Phong) and [here](http://dblp.uni-trier.de/pers/hd/v/Vo:Phong_D=)) and [Google Scholar](https://scholar.google.com/citations?user=s830TUYAAAAJ&hl=de).*
-
 ### PhD Dissertation ###
 * Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, TELECOM ParisTech, 2014. [PDF](These.pdf)
 
 ### Conference papers ###
+* Phong D. Vo, Alexandru Ginsca, Herv\'e Le Borgne, Adrian Popescu, **On Deep Representation Learning from Noisy Web Images**, arXiv, 2016.
 * Phong D. Vo, Hichem Sahbi, **Contextual Kernel Map Learning for Scene Transduction**, ICIP, 2015.
-* Phong D. Vo, Alexandru Ginsca, Herv\'e Le Borgne, Adrian Popescu, **On Deep Representation Learning from Noisy Web Images**, arXiv, 2015.
 * Phong D. Vo, Alexandru Ginsca, Herv\'e Le Borgne, Adrian Popescu, **Effective Training of Convolutional Networks using Noisy Web Images**, 13th International Workshop on Content-Based Multimedia Indexing (CBMI), Prague, Czech Republic, June 2015.
 * Alexandru-Lucian Gînsca, Adrian Popescu, Hervé Le Borgne, Nicolas Ballas, Phong D. Vo, Ioannis Kanellos, **Large-Scale Image Mining with Flickr Groups**, MultiMedia Modeling - 21st International Conference, Sydney, NSW, Australia, 2015.
 * Phong D. Vo, Hichem Sahbi, **Modeling Label Dependencies in Kernel Learning for Image Annotation**,  IEEE International Conference on Image Processing, Paris, France, October, 2014.
