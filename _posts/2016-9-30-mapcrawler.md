@@ -4,9 +4,11 @@ title: Crawling Satellite Imagery from Bing Maps
 categories: remote-sensing satellite-imagery Bing
 ---
 
-People can find a lot of free sources of satellite imagery such as Sentinel-1, Sentinel-2 of the Copernicus program
-and Landsat-8 of NASA. However a cloud-free and global basemap like that of Google or Bing is not trivial to obtain.
-Before writing this post, I did not know that DigitalGlobe, partnering with Amazon, has released [SpaceNet]()with very high
+People can find a lot of free sources of satellite imagery such as [Sentinel Scientific Data Hub](https://scihub.copernicus.eu/) 
+and [Sentinel-2 AWS portal](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/) of the Copernicus program
+and [Landsat-8 AWS portal](https://aws.amazon.com/public-data-sets/landsat/) of NASA. However a cloud-free and global basemap 
+like that of Google or Bing is not trivial to obtain. Before writing this post, I did not know that DigitalGlobe, 
+partnering with Amazon, has released [SpaceNet](https://aws.amazon.com/public-data-sets/spacenet/) with very high
 resolution imagery from WorldView satellites. I wish I knew this earlier but anyway SpaceNet is limited and at the time 
 I write this, just the imagery of Rio De Janeiro was released.
 
@@ -22,8 +24,9 @@ bounding box is much larger than the area. So you may want to limit the maximum 
 the longitude and latitude in degrees are converted into pixel coordinates. 
 5. Once all patches are retrieved, stitching them together.
 
-Reverse geocoding is also provided by Google and Bing. I choose [Nominatim](), a geocoding service based on [OpenStreetMaps]()
-with no particular reason for steps 1-2-3. Step 4 is quite complicated for guys have no knowledge of how Earth is indexed.
+Reverse geocoding is also provided by Google and Bing. I choose [Overpass API](http://wiki.openstreetmap.org/wiki/Overpass_API) to 
+querry city names from [OpenStreetMap](https://www.openstreetmap.org/) and [Nominatim API](http://wiki.openstreetmap.org/wiki/Nominatim), a geocoding service based upon.
+Step 4 is quite complicated for guys have no knowledge of how Earth is indexed.
 The best explanation comes with the picture below
 ![hehe](http://www.learner.org/jnorth/images/graphics/mclass/Lat_Long.gif) 
 
@@ -34,5 +37,8 @@ in terms of coordinates as well as the basic batch size. Find out yourself.
 Noticeably, each patch downloaded from Bing and Google is watermarked of course. I find Bing watermarking is more 'friendly'.
 My repo scripts for this stuff is accessible at [gmapcrawler](https://github.com/vodp/mapcrawler), where a part of the 
 code is borrowed from this [gmap_tiles](https://github.com/nst/gmap_tiles). More about geocoding tools can be found 
-at [geopy](https://github.com/geopy/geopy). Happy responsible crawling!
+at [geopy](https://github.com/geopy/geopy).
+
+This is a thumbnail of Ferrara, a beautiful Italian city from space. Happy stitching with responsibility in mind.
+![Ferrara](assets/images/map_Ferrara_z15.jpg)
 
