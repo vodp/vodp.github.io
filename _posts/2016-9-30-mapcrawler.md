@@ -41,5 +41,5 @@ code is borrowed from this [gmap_tiles](https://github.com/nst/gmap_tiles). More
 at [geopy](https://github.com/geopy/geopy).
 
 This is a thumbnail of Ferrara, a beautiful Italian city from space. Happy stitching with responsibility in mind.
-![Ferrara](assets/images/map_Ferrara_z15.jpg)
+![Ferrara](assets/map_Ferrara_z15.jpg)
 
