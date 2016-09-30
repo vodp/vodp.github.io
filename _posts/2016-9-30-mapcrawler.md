@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crawling Satellite Imagery from Bing Maps
+categories: jekyll
 ---
 
 People can find a lot of free sources of satellite imagery such as [Sentinel Scientific Data Hub](https://scihub.copernicus.eu/) 
