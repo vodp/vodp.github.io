@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Crawling Satellite Imagery from Bing Maps
-categories: jekyll
+comments: true
 ---
+
 
 People can find a lot of free sources of satellite imagery such as [Sentinel Scientific Data Hub](https://scihub.copernicus.eu/) 
 and [Sentinel-2 AWS portal](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/) of the Copernicus program
