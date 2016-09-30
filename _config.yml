@@ -10,3 +10,4 @@ github_username:  vodp
 
 # Build settings
 markdown: kramdown
+comments: true

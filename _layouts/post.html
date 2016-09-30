@@ -11,5 +11,6 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+  {% if page.comments %} • <a href="https://vodp.github.io{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}
+  {% include disqus.html %}
 </div>
