@@ -1,3 +1,9 @@
+---
+layout: post
+title: LSTM and Residual Networks
+comments: true
+---
+
 {% include lib/mathjax.html %}
 
 $$
