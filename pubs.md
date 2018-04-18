@@ -7,7 +7,7 @@ permalink: /pubs/
 * Phong D. Vo, **Transductive Inference for Image Interpretation and Search**, TELECOM ParisTech, 2014. [PDF](These.pdf)
 
 ### Conference papers ###
-* Phong D. Vo, Alexandru Ginsca, Herv\'e Le Borgne, Adrian Popescu, **On Deep Representation Learning from Noisy Web Images**, arXiv, 2016.
+* Phong D. Vo, Alexandru Ginsca, Herv\'e Le Borgne, Adrian Popescu, **Harnessing noisy Web images for deep representation**, Journal of Computer Vision and Image Understanding 164, 2017.
 * Phong D. Vo, Hichem Sahbi, **Contextual Kernel Map Learning for Scene Transduction**, ICIP, 2015.
 * Phong D. Vo, Alexandru Ginsca, Herv\'e Le Borgne, Adrian Popescu, **Effective Training of Convolutional Networks using Noisy Web Images**, 13th International Workshop on Content-Based Multimedia Indexing (CBMI), Prague, Czech Republic, June 2015.
 * Alexandru-Lucian Gînsca, Adrian Popescu, Hervé Le Borgne, Nicolas Ballas, Phong D. Vo, Ioannis Kanellos, **Large-Scale Image Mining with Flickr Groups**, MultiMedia Modeling - 21st International Conference, Sydney, NSW, Australia, 2015.
