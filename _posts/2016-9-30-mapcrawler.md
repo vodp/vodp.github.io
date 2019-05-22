@@ -3,6 +3,7 @@ layout: post
 title: Crawling Satellite Imagery from Bing Maps
 comments: true
 published: false
+hidden: true
 ---
 
 
