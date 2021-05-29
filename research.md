@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Past Research
 permalink: /research/
 ---
 ## Deep Representation Learning and Noisy Data ##
