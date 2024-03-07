@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Connectionism, Languages, and Common-sense"
-date:   2015-12-09 00:20:46
+date:   2022-02-05 00:20:46
 categories: jekyll update
 published: true
 hidden: false
