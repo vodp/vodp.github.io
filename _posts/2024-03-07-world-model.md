@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "World model from video games"
-date:   2015-12-09 00:20:46
+date:   2024-03-07 00:20:46
 categories: jekyll update
 published: true
 hidden: false
