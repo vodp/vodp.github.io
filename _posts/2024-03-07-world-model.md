@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "World model from video games"
+title:  "World Video Models"
 date:   2024-03-07 00:20:46
 categories: jekyll update
 published: true
@@ -12,6 +12,8 @@ Recent developments of AI has highlighted many achievements but the foremost imp
 But before coming to that point, the philosophical question that mandates our understanding of world models: Are we living in a simulation? The idea of our physical world in fact a perfect simulation run by cosmic-scale and quantum-level computers have been around for many years. People detect resemblances between greatly simple computer games and the world we live in. Only that the sheer scale of complexity paralyzes us from thinking of any possible way to test the hypothesis, not mentioning the ability to understand or build it. 
 
 Not that obscuring anymore. Simulation of the world, or the simulation of our perception about the world, is going to be built from videos. This media format is the most comprehensive form of data in which audio channels are included, and visual perception and action are stored as color pixels in every video frame. This is the best shot from what we have to first mimic the world with some common-sense encoded in it. 
+
+# On the radar
 
 In early 2024 there are two papers have presented their pursuits of such world models. And the commercial video generator called [Sora](https://openai.com/sora) from Open AI. While the latter is truly impressive it is a closed source commercial piece of software that sheds no light into our understanding of progressing the world model prize. 
 
@@ -31,5 +33,13 @@ Joint Embedding Predictive Architectures (JEPA) is a broad term including archit
 
 Genie and V-JEPA share the basic recipe of cooking up a world model. It consists of three parts: i) a *video tokenizer* or *x-encoder* that converts video frames into token / latent embedding *z*, ii) a *latent action model* or *predictor* that infers future states of *z* or actions *a* over *z*, and iii) a *dynamic model* predicts the next video frame given *z* and *a*. The third component however is missing from V-JEPA for good: the authors argue for the succint of embedding whereas the pixel space is extraneous. V-JPEA in its experiments demonstrated the optional third component by training a pixel decoder which gives no nonsense pixel-level reconstruction of predicted states *z*. 
 
-At the abstract level there is virtually no differences between Genie and V-JEPA except that Genie made use of a discrete model called Vector Quantized Variational Autoencoder (VQ-VAE) to compress the continuous latent control predictive space to a few codebooks which correspond to sprite movements such as up, down, left, right. The most important message from the papers nevertheless is that video data is the key to train the next AI models without relying on expensive annotations. As a result, scaling compute is the only best way to improve  the quality of these video-based world model. A trillions parameters model trained on all of the GPUs in the world from all the videos available on YouTube will give you something blow up your mind.
+At the abstract level there is virtually no differences between Genie and V-JEPA except that Genie made use of a discrete model called Vector Quantized Variational Autoencoder (VQ-VAE) to compress the continuous latent control predictive space to a few codebooks which correspond to sprite movements such as up, down, left, right. The most important message from the papers nevertheless is that video data is the key to train the next AI models without relying on expensive annotations. As a result, scaling compute is the only best way to improve  the quality of these video-based world model. Think about it: a trillions parameters model trained on all of the GPUs in the world from all the videos available on YouTube will give you something blow up your mind.
+
+# Methodology
+
+## Genie
+
+## V-JEPA
+
+
 
