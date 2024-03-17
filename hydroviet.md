@@ -6,13 +6,13 @@ permalink: /hydroviet/
 
 # People
 
-This is a voluntary research project, ideated and led by me from 2018 to 2022, with co-investigator Professor (Bac H. Le)[https://scholar.google.com.vn/citations?user=UA_83MUAAAAJ&hl=vi], from the University of Science, Ho Chi Minh City, Viet Nam. Together with six undergrad students fome the Department of Computer Science:
+This is a voluntary research project, ideated and led by me from 2018 to 2022, with co-investigator Professor [Bac H. Le](https://scholar.google.com.vn/citations?user=UA_83MUAAAAJ&hl=vi), from the University of Science, Ho Chi Minh City, Viet Nam. Together with six undergrad students fome the Department of Computer Science:
 
-1. (Duc-Tan LAM)[https://www.linkedin.com/in/tan-lam-277b2511b/], 2018
+1. [Duc-Tan LAM](https://www.linkedin.com/in/tan-lam-277b2511b/), 2018
 2. Tuan-Anh LE, 2018
-3. (Thai-Bao DUONG)[https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en], 2019
-4. (Thien-Nu HOANG)[https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en], 2019
-5. (Minh-Khoa LE)[https://www.deakin.edu.au/about-deakin/people/minh-khoa-le], 2021
+3. [Thai-Bao DUONG](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en), 2019
+4. [Thien-Nu HOANG](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en), 2019
+5. [Minh-Khoa LE](https://www.deakin.edu.au/about-deakin/people/minh-khoa-le), 2021
 6. Minh-Duy CAO, 2021
 
 ![mekongbasin](assets/mekongbasin.png)
@@ -57,21 +57,22 @@ Please contact first authors if you are interested in their dissertations.
 
 ## References
  
-1 https://wle-mekong.cgiar.org
-2 Jory Hecht and Guillaume Lacombe, The Effects of Hydropower Dams on the Hydrology of the Mekong Basin, SOK 2014
-3 H. Lauri et al., Future changes in Mekong River hydrology: impact of climate change and reservoir operation on discharge, Journal of Hydrology and Earth System Sciences, 2012
-4 The Xayaburi Dam: A Looming Threat To The Mekong River. International Rivers, 2011.
-5 Lauri, H., de Moel, H., Ward, P. J., Räsänen, T. A., Keskinen, M., and Kummu, M.: Future changes in Mekong River hydrology: impact of climate change and reservoir operation on discharge, Hydrol. Earth Syst. Sci., 16, 4603-4619, 2012.
-6 Timo A Räsänen, Paradis Someth, Hannu Lauri, Jorma Koponen, Juha Sarkkula, Matti Kummu. Observed river discharge changes due to hydropower operations in the Upper Mekong Basin. Journal of Hydrology, 545, 28-41, 2017.
-7 Yadu Pokhrel et al., A Review of the Integrated Effects of Changing Climate, Land Use, and Dams on Mekong River Hydrology, Journal of Water MDPI, 2018
-8 Tuan-Anh D. Le et al., Recover Water Bodies in Multi-spectral Satellite Images with Deep Neural Nets, SoICT 2018
-9 Li, D.; Long, D.; Zhao, J.; Lu, H.; Hong, Y. Observed changes in flow regimes in the Mekong river basin. J. Hydrol. 2017
+1. https://wle-mekong.cgiar.org
+2. Jory Hecht and Guillaume Lacombe, The Effects of Hydropower Dams on the Hydrology of the Mekong Basin, SOK 2014
+3. H. Lauri et al., Future changes in Mekong River hydrology: impact of climate change and reservoir operation on discharge, Journal of Hydrology and Earth System Sciences, 2012
+4. The Xayaburi Dam: A Looming Threat To The Mekong River. International Rivers, 2011.
+5. Lauri, H., de Moel, H., Ward, P. J., Räsänen, T. A., Keskinen, M., and Kummu, M.: Future changes in Mekong River hydrology: impact of climate change and reservoir operation on discharge, Hydrol. Earth Syst. Sci., 16, 4603-4619, 2012.
+6. Timo A Räsänen, Paradis Someth, Hannu Lauri, Jorma Koponen, Juha Sarkkula, Matti Kummu. Observed river discharge changes due to hydropower operations in the Upper Mekong Basin. Journal of Hydrology, 545, 28-41, 2017.
+7. Yadu Pokhrel et al., A Review of the Integrated Effects of Changing Climate, Land Use, and Dams on Mekong River Hydrology, Journal of Water MDPI, 2018
+8. Tuan-Anh D. Le et al., Recover Water Bodies in Multi-spectral Satellite Images with Deep Neural Nets, SoICT 2018
+9. Li, D.; Long, D.; Zhao, J.; Lu, H.; Hong, Y. Observed changes in flow regimes in the Mekong river basin. J. Hydrol. 2017
+
 
 # Open Topics
-
+ 
 There are project ideas for this project to go on and contributes deeper impact to how satellite images and machine learning are used to forecast water usage in the Mekong area in particualar and generally applicable to other applications.
 
-## 1. Visual Object Retrieval from EO Data (VOR)
+## Visual Object Retrieval from EO Data (VOR)
 
 Retrieve visual structures, including man-made and natural, at the country-wide level; for example find hydropower plants, constructions in forest, households in rural or mountainous areas, bridges, fords, streams, concrete high buildings, high grounds, landslide sites.
 
@@ -94,7 +95,7 @@ A good object retrieval algorithm allows searching at large-scale efficiently, u
 6. [Mapping the world to help aid workers, with weakly, semi-supervised learning](https://ai.facebook.com/blog/mapping-the-world-to-help-aid-workers-with-weakly-semi-supervised-learning/)
 
 
-## 2. Visual Object Categorization from Satellite Images (VOC)
+## Visual Object Categorization from Satellite Images (VOC)
 
 Categorizing man-made structures and natural objects are one step closer to accurate loss assessment and humanitarian aids in catastrophic events. This topic focuses on categorizing building types based on bird-view images and angled views if available. Inferring building heights are useful in flood events.
 
@@ -116,7 +117,7 @@ Categorizing man-made structures and natural objects are one step closer to accu
 8. [Radiant Earth Foundation](https://www.radiant.earth/)
 
 
-## 3. Inland Water Monitoring and Prediction (WMP)
+## Inland Water Monitoring and Prediction (WMP)
 
 Monitor water levels of inland water bodies including reservoirs and hydropower dams and water ways. Based on Digital Elevation Model (DEM) combined with SAR Sentinel-1 imagery, find insights from annual and seasonal hydrological cycles in the region, and combine with weather data of wind, rainfall, water runoff, temperature, etc. to improve monitoring accuracy, and early prediction.
 
@@ -137,7 +138,7 @@ To improve water segmentation quality, reaching to higher spatial resolution alo
 4. [CoastalDEM: A global coastal digital elevation model improved from SRTM using a neural network](https://www.sciencedirect.com/science/article/abs/pii/S0034425717306016)
 5. [ECMWF Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/home)
 
-## 4. Change Detection for Catastrophic Loss Assessment (CDL)
+## Change Detection for Catastrophic Loss Assessment (CDL)
 
 Humanitatian aid requires a good loss assessment so that right helps come to right places, right people. In catastrophic events like floods, aerial images including satellite observations are vital to localize damages, and to assess the severity of losses. For heavy rainfalls and flooding are often associated with bad weather, satellite visibility is severely affected because of heavy clouds. Synthetic Aperture Radar images stand out as the unique way "seeing through" the clouds, henceforth effectively detect flooded regions.
 
@@ -161,7 +162,7 @@ Change detection plays vital roles in identifying and localizing damaged areas o
 8. [SAR Flood Mapping using Google Earth Engine](https://youtu.be/4Y2giuRPCuc)
 9. [SAR for Flood Mapping](https://www.youtube.com/watch?v=QKrG5jYZe10)
 
-## 5. Causal Reasoning on Explaining Catastrophic Events: Landslides and Flooding (CRL)
+## Causal Reasoning on Explaining Catastrophic Events: Landslides and Flooding (CRL)
 
 Landslides are deadly events happening in mountainous areas, killing many thousands of people each year worldwide. Landslides are very difficult to predict ahead due to complex relationship between geographical developments, weather events, precipitation, in which many of these factors could not be observed by satellites. In this study we aim to apply causal machine learning models into explaining historical landslide events, harnessing as many observation variables as possible, including soil composition, terrain, elevation, runoffs, precipitation, vegetation coverage, agriculture and deforestation activities.
 
