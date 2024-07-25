@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
+<!--
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
@@ -17,6 +17,12 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+-->
+  <div class="post">
+      <article class="post-content">
+          {{ site.about.content }}
+      </article>
+  </div>
   <a href="https://vodp.github.io{{ post.url }}#disqus_thread">0 Comments</a>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
